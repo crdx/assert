@@ -1,6 +1,6 @@
 # assert
 
-An assertion library for Go.
+**assert** is an assertion library for Go.
 
 ## Methods
 
