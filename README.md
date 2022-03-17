@@ -21,3 +21,11 @@ Assert that `condition` is `true`.
 ### `Truef(t, condition, format, ...args)`
 
 Assert that `condition` is `true`, and show a custom message if not.
+
+## Contributions
+
+Open an [issue](https://github.com/crdx/assert/issues) or send a [pull request](https://github.com/crdx/assert/pulls).
+
+## Licence
+
+[MIT](LICENCE.md).
