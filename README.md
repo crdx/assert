@@ -2,6 +2,12 @@
 
 **assert** is an assertion library for Go.
 
+## Installation
+
+```sh
+go get github.com/crdx/assert
+```
+
 ## Methods
 
 All methods return a `bool` indicating test success or failure.
