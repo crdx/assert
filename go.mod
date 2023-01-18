@@ -1,3 +1,3 @@
-module github.com/crdx/assert
+module crdx.org/assert
 
 go 1.16
