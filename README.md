@@ -1,3 +1,5 @@
+⚠️ **This repository has been deprecated. Use [stretchr/testify](https://github.com/stretchr/testify) instead.**
+
 # assert
 
 **assert** is an assertion library for Go.
