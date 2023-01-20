@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-go get github.com/crdx/assert
+go get crdx.org/assert
 ```
 
 ## Methods
